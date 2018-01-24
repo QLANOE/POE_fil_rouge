@@ -1,0 +1,34 @@
+th{
+	height: 300px;
+}
+
+.ensemble{
+	display: flex;
+}
+
+.bord-gauche{
+	display: flex;
+	width: 7%;
+	flex-direction: column;
+}
+
+.post-it{
+	margin-bottom: 50px;
+	background-color: yellow;
+	border-radius: 5px;
+	height: 100px;
+	width: 100px;
+
+}
+
+.interface-boutons{
+	display: flex;
+	border: solid 2px black;
+	border-radius: 5px;
+	flex-direction: column;
+}
+
+.tableau{
+	display: flex;
+	margin-left: 50px;
+}
